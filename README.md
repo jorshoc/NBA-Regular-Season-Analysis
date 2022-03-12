@@ -1,4 +1,4 @@
-#NBA Regular Season Analysis Overview
+# NBA Regular Season Analysis Overview
 ##### Goal:
 - Determine the impact that shooting percentage, turnovers, offensive rebounds and free throw rate have on an NBA team's regular season record
 
