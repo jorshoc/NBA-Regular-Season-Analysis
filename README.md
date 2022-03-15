@@ -1,6 +1,7 @@
 # NBA Regular Season Analysis Overview
 ##### Goal:
-- Determine the impact that shooting percentage, turnovers, offensive rebounds and free throw rate have on an NBA team's regular season record
+- Accurately predict NBA teams' regular season records
+- Determine the impact that Dean Oliver's Four Factors - shooting percentage, turnovers, offensive rebounds and free throw rate - have on an NBA team's regular season record
 
 ##### Project Sections: 
 1. Import Packages
